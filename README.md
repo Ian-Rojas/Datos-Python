@@ -2,12 +2,6 @@
 
 Este repositorio contiene un sistema de gestión de ciclovías utilizando **MySQL** y **Python** con procedimientos almacenados (Stored Procedures). Permite manejar información de personas, usuarios, rutas, reportes, roles, comunas y regiones, incluyendo operaciones de **crear, leer y borrado lógico**.
 
----
-
-## 🗂️ Estructura del proyecto
-
----
-
 ## 🛠 Tecnologías utilizadas
 
 - **Python 3.x**
